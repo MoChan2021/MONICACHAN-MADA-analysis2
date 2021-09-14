@@ -9,6 +9,9 @@ library(readxl) #for loading Excel files
 library(dplyr) #for data processing
 library(here) #to set paths
 
+###
+#Data is about Provisional Covid-19 Deaths by Sex and Age
+
 #path to data
 #note the use of the here() package and not absolute paths
 data_location <- here::here("data","raw_data","exampledata.xlsx")
@@ -19,37 +22,28 @@ data_location <- here::here("data","raw_data","exampledata.xlsx")
 #package::function() that's not required one could just call the function
 #specifying the package makes it clearer where the function "lives",
 #but it adds typing. You can do it either way.
-rawdata <- readxl::read_excel(data_location)
+#rawdata <- readxl::read_excel(data/raw_data/Provisional_COVID-19_Deaths_by_Sex_and_Age.csv)
+library(readr)
+rawdata <- read_csv("data/raw_data/Provisional_COVID-19_Deaths_by_Sex_and_Age.csv")
 
 #take a look at the data
 dplyr::glimpse(rawdata)
-
+summary(rawdata)
 #dataset is so small, we can print it to the screen.
 #that is often not possible.
 print(rawdata)
 
-# looks like we have measurements for height (in centimeters) and weight (in kilogram)
+# Clean Data for Georgia to see Year, Sex, Age Group, and deaths for (Covid 19, Pneumonia, and Influenza)
+library(lubridate)
+processeddata <- rawdata %>%
+  dplyr::rename_all(funs(make.names(.))) %>%
+  dplyr::select( Year, State, Sex, Age.Group, COVID.19.Deaths, Pneumonia.Deaths, Influenza.Deaths)%>%
+  filter(State=="Georgia", Year!="NA", Sex!="All Sexes", State!="United States")
 
-# there are some problems with the data: 
-# There is an entry which says "sixty" instead of a number. 
-# Does that mean it should be a numeric 60? It somehow doesn't make
-# sense since the weight is 60kg, which can't happen for a 60cm person (a baby)
-# Since we don't know how to fix this, we need to remove the person.
-# This "sixty" entry also turned all Height entries into characters instead of numeric.
-# We need to fix that too.
-# Then there is one person with a height of 6. 
-# that could be a typo, or someone mistakenly entered their height in feet.
-# Since we unfortunately don't know, we'll have to remove this person.
-# similarly, there is a person with weight of 7000, which is impossible,
-# and one person with missing weight.
-# to be able to analyze the data, we'll remove those 5 individuals
+summary(processeddata)
+str(processeddata)
+print(processeddata)
 
-# this is one way of doing it. Note that if the data gets updated, 
-# we need to decide if the thresholds are ok (newborns could be <50)
-
-processeddata <- rawdata %>% dplyr::filter( Height != "sixty" ) %>% 
-                             dplyr::mutate(Height = as.numeric(Height)) %>% 
-                             dplyr::filter(Height > 50 & Weight < 1000)
 
 # save data as RDS
 # I suggest you save your processed and cleaned data as RDS or RDA/Rdata files. 
@@ -63,4 +57,17 @@ save_data_location <- here::here("data","processed_data","processeddata.rds")
 
 saveRDS(processeddata, file = save_data_location)
 
+######################
+# Compare Male and Female Total Deaths caused Covid 19 for ALL Ages in the state of Georgia. 
 
+
+
+# Make comparisons between causes of Deaths (Covid 19, Pneumonia, and Flu) in the Years 2020 and 2021 for All Ages. 
+
+
+#
+
+
+
+
+#####################

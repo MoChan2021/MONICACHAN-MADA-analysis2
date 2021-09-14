@@ -1,0 +1,329 @@
+YearName,Organism,Topic,Viewby,Series,Value
+2012,CRAB,Case Rates,Age,19-49 years,1.06
+2013,CRAB,Case Rates,Age,19-49 years,0.89
+2014,CRAB,Case Rates,Age,19-49 years,0.53
+2015,CRAB,Case Rates,Age,19-49 years,0.9
+2016,CRAB,Case Rates,Age,19-49 years,0.59
+2017,CRAB,Case Rates,Age,19-49 years,0.38
+2018,CRAB,Case Rates,Age,19-49 years,0.28
+2012,CRAB,Case Rates,Age,50-64 years,1.87
+2013,CRAB,Case Rates,Age,50-64 years,2.42
+2014,CRAB,Case Rates,Age,50-64 years,2.13
+2015,CRAB,Case Rates,Age,50-64 years,1.79
+2016,CRAB,Case Rates,Age,50-64 years,0.99
+2017,CRAB,Case Rates,Age,50-64 years,1.16
+2018,CRAB,Case Rates,Age,50-64 years,0.84
+2012,CRAB,Case Rates,Age,65-79 years,6.45
+2013,CRAB,Case Rates,Age,65-79 years,4.35
+2014,CRAB,Case Rates,Age,65-79 years,3.16
+2015,CRAB,Case Rates,Age,65-79 years,2.51
+2016,CRAB,Case Rates,Age,65-79 years,2.4
+2017,CRAB,Case Rates,Age,65-79 years,3.3
+2018,CRAB,Case Rates,Age,65-79 years,1.52
+2012,CRAB,Case Rates,Age,80+ years,7.58
+2013,CRAB,Case Rates,Age,80+ years,4.95
+2014,CRAB,Case Rates,Age,80+ years,3.77
+2015,CRAB,Case Rates,Age,80+ years,4.37
+2016,CRAB,Case Rates,Age,80+ years,2.58
+2017,CRAB,Case Rates,Age,80+ years,2.57
+2018,CRAB,Case Rates,Age,80+ years,2.31
+2012,CRAB,Case Rates,All cases,All cases,1.58
+2013,CRAB,Case Rates,All cases,All cases,1.39
+2014,CRAB,Case Rates,All cases,All cases,1.04
+2015,CRAB,Case Rates,All cases,All cases,1.1
+2016,CRAB,Case Rates,All cases,All cases,0.76
+2017,CRAB,Case Rates,All cases,All cases,0.8
+2018,CRAB,Case Rates,All cases,All cases,0.53
+2012,CRAB,Case Rates,Culture location,Acute-care hospital,0.76
+2013,CRAB,Case Rates,Culture location,Acute-care hospital,0.52
+2014,CRAB,Case Rates,Culture location,Acute-care hospital,0.33
+2015,CRAB,Case Rates,Culture location,Acute-care hospital,0.36
+2016,CRAB,Case Rates,Culture location,Acute-care hospital,0.23
+2017,CRAB,Case Rates,Culture location,Acute-care hospital,0.32
+2018,CRAB,Case Rates,Culture location,Acute-care hospital,0.17
+2012,CRAB,Case Rates,Culture location,All cases,1.58
+2013,CRAB,Case Rates,Culture location,All cases,1.39
+2014,CRAB,Case Rates,Culture location,All cases,1.04
+2015,CRAB,Case Rates,Culture location,All cases,1.1
+2016,CRAB,Case Rates,Culture location,All cases,0.76
+2017,CRAB,Case Rates,Culture location,All cases,0.8
+2018,CRAB,Case Rates,Culture location,All cases,0.53
+2012,CRAB,Case Rates,Culture location,LTCF,0.33
+2013,CRAB,Case Rates,Culture location,LTCF,0.29
+2014,CRAB,Case Rates,Culture location,LTCF,0.21
+2015,CRAB,Case Rates,Culture location,LTCF,0.19
+2016,CRAB,Case Rates,Culture location,LTCF,0.19
+2017,CRAB,Case Rates,Culture location,LTCF,0.11
+2018,CRAB,Case Rates,Culture location,LTCF,0.12
+2012,CRAB,Case Rates,Culture location,Outpatient or ER,0.44
+2013,CRAB,Case Rates,Culture location,Outpatient or ER,0.5
+2014,CRAB,Case Rates,Culture location,Outpatient or ER,0.43
+2015,CRAB,Case Rates,Culture location,Outpatient or ER,0.51
+2016,CRAB,Case Rates,Culture location,Outpatient or ER,0.31
+2017,CRAB,Case Rates,Culture location,Outpatient or ER,0.35
+2018,CRAB,Case Rates,Culture location,Outpatient or ER,0.23
+2012,CRAB,Case Rates,Culture source,All cases,1.58
+2013,CRAB,Case Rates,Culture source,All cases,1.39
+2014,CRAB,Case Rates,Culture source,All cases,1.04
+2015,CRAB,Case Rates,Culture source,All cases,1.1
+2016,CRAB,Case Rates,Culture source,All cases,0.76
+2017,CRAB,Case Rates,Culture source,All cases,0.8
+2018,CRAB,Case Rates,Culture source,All cases,0.53
+2012,CRAB,Case Rates,Culture source,Blood,0.37
+2013,CRAB,Case Rates,Culture source,Blood,0.3
+2014,CRAB,Case Rates,Culture source,Blood,0.31
+2015,CRAB,Case Rates,Culture source,Blood,0.28
+2016,CRAB,Case Rates,Culture source,Blood,0.16
+2017,CRAB,Case Rates,Culture source,Blood,0.28
+2018,CRAB,Case Rates,Culture source,Blood,0.16
+2012,CRAB,Case Rates,Culture source,Urine,1.15
+2013,CRAB,Case Rates,Culture source,Urine,1.04
+2014,CRAB,Case Rates,Culture source,Urine,0.71
+2015,CRAB,Case Rates,Culture source,Urine,0.8
+2016,CRAB,Case Rates,Culture source,Urine,0.6
+2017,CRAB,Case Rates,Culture source,Urine,0.5
+2018,CRAB,Case Rates,Culture source,Urine,0.35
+2012,CRAB,Case Rates,Patient location,All cases,1.58
+2013,CRAB,Case Rates,Patient location,All cases,1.39
+2014,CRAB,Case Rates,Patient location,All cases,1.04
+2015,CRAB,Case Rates,Patient location,All cases,1.1
+2016,CRAB,Case Rates,Patient location,All cases,0.76
+2017,CRAB,Case Rates,Patient location,All cases,0.8
+2018,CRAB,Case Rates,Patient location,All cases,0.53
+2012,CRAB,Case Rates,Patient location,Community,0.32
+2013,CRAB,Case Rates,Patient location,Community,0.32
+2014,CRAB,Case Rates,Patient location,Community,0.27
+2015,CRAB,Case Rates,Patient location,Community,0.33
+2016,CRAB,Case Rates,Patient location,Community,0.25
+2017,CRAB,Case Rates,Patient location,Community,0.26
+2018,CRAB,Case Rates,Patient location,Community,0.18
+2012,CRAB,Case Rates,Patient location,Hospital inpatient,0.61
+2013,CRAB,Case Rates,Patient location,Hospital inpatient,0.34
+2014,CRAB,Case Rates,Patient location,Hospital inpatient,0.27
+2015,CRAB,Case Rates,Patient location,Hospital inpatient,0.19
+2016,CRAB,Case Rates,Patient location,Hospital inpatient,0.16
+2017,CRAB,Case Rates,Patient location,Hospital inpatient,0.21
+2018,CRAB,Case Rates,Patient location,Hospital inpatient,0.1
+2012,CRAB,Case Rates,Patient location,LTCF,0.57
+2013,CRAB,Case Rates,Patient location,LTCF,0.65
+2014,CRAB,Case Rates,Patient location,LTCF,0.43
+2015,CRAB,Case Rates,Patient location,LTCF,0.51
+2016,CRAB,Case Rates,Patient location,LTCF,0.32
+2017,CRAB,Case Rates,Patient location,LTCF,0.29
+2018,CRAB,Case Rates,Patient location,LTCF,0.23
+2012,CRAB,Case Rates,Sex,Female,3.33
+2013,CRAB,Case Rates,Sex,Female,3.32
+2014,CRAB,Case Rates,Sex,Female,4.28
+2015,CRAB,Case Rates,Sex,Female,3.44
+2016,CRAB,Case Rates,Sex,Female,9.74
+2017,CRAB,Case Rates,Sex,Female,9.39
+2018,CRAB,Case Rates,Sex,Female,6.43
+2012,CRAB,Case Rates,Sex,Male,2.53
+2013,CRAB,Case Rates,Sex,Male,2.54
+2014,CRAB,Case Rates,Sex,Male,2.72
+2015,CRAB,Case Rates,Sex,Male,2.46
+2016,CRAB,Case Rates,Sex,Male,6
+2017,CRAB,Case Rates,Sex,Male,5.62
+2018,CRAB,Case Rates,Sex,Male,4.21
+2012,CRAB,Death Rates,All cases,All cases,0.32
+2013,CRAB,Death Rates,All cases,All cases,0.22
+2014,CRAB,Death Rates,All cases,All cases,0.2
+2015,CRAB,Death Rates,All cases,All cases,0.16
+2016,CRAB,Death Rates,All cases,All cases,0.07
+2017,CRAB,Death Rates,All cases,All cases,0.18
+2018,CRAB,Death Rates,All cases,All cases,0.08
+2012,CRE,Case Rates,Age,0-18 years,0
+2014,CRE,Case Rates,Age,0-18 years,0.32
+2015,CRE,Case Rates,Age,0-18 years,0.29
+2016,CRE,Case Rates,Age,0-18 years,0.93
+2017,CRE,Case Rates,Age,0-18 years,0.56
+2018,CRE,Case Rates,Age,0-18 years,0.68
+2012,CRE,Case Rates,Age,19-49 years,1.61
+2013,CRE,Case Rates,Age,19-49 years,1.19
+2014,CRE,Case Rates,Age,19-49 years,1.06
+2015,CRE,Case Rates,Age,19-49 years,1.09
+2016,CRE,Case Rates,Age,19-49 years,3.22
+2017,CRE,Case Rates,Age,19-49 years,3.02
+2018,CRE,Case Rates,Age,19-49 years,1.52
+2012,CRE,Case Rates,Age,50-64 years,5.46
+2013,CRE,Case Rates,Age,50-64 years,3.96
+2014,CRE,Case Rates,Age,50-64 years,5.02
+2015,CRE,Case Rates,Age,50-64 years,4.37
+2016,CRE,Case Rates,Age,50-64 years,8.88
+2017,CRE,Case Rates,Age,50-64 years,8.06
+2018,CRE,Case Rates,Age,50-64 years,5.62
+2012,CRE,Case Rates,Age,65-79 years,8.96
+2013,CRE,Case Rates,Age,65-79 years,11.12
+2014,CRE,Case Rates,Age,65-79 years,13.87
+2015,CRE,Case Rates,Age,65-79 years,10.62
+2016,CRE,Case Rates,Age,65-79 years,27.08
+2017,CRE,Case Rates,Age,65-79 years,25.77
+2018,CRE,Case Rates,Age,65-79 years,17.29
+2012,CRE,Case Rates,Age,80+ years,18.2
+2013,CRE,Case Rates,Age,80+ years,21.54
+2014,CRE,Case Rates,Age,80+ years,25.05
+2015,CRE,Case Rates,Age,80+ years,19.24
+2016,CRE,Case Rates,Age,80+ years,64.84
+2017,CRE,Case Rates,Age,80+ years,65.22
+2018,CRE,Case Rates,Age,80+ years,46.02
+2012,CRE,Case Rates,All cases,All cases,2.94
+2013,CRE,Case Rates,All cases,All cases,2.94
+2014,CRE,Case Rates,All cases,All cases,3.52
+2015,CRE,Case Rates,All cases,All cases,2.96
+2016,CRE,Case Rates,All cases,All cases,7.92
+2017,CRE,Case Rates,All cases,All cases,7.55
+2018,CRE,Case Rates,All cases,All cases,5.35
+2012,CRE,Case Rates,Culture location,Acute-care hospital,1.03
+2013,CRE,Case Rates,Culture location,Acute-care hospital,0.98
+2014,CRE,Case Rates,Culture location,Acute-care hospital,0.93
+2015,CRE,Case Rates,Culture location,Acute-care hospital,0.84
+2016,CRE,Case Rates,Culture location,Acute-care hospital,1.69
+2017,CRE,Case Rates,Culture location,Acute-care hospital,1.74
+2018,CRE,Case Rates,Culture location,Acute-care hospital,1.23
+2012,CRE,Case Rates,Culture location,All cases,2.94
+2013,CRE,Case Rates,Culture location,All cases,2.94
+2014,CRE,Case Rates,Culture location,All cases,3.52
+2015,CRE,Case Rates,Culture location,All cases,2.96
+2016,CRE,Case Rates,Culture location,All cases,7.92
+2017,CRE,Case Rates,Culture location,All cases,7.55
+2018,CRE,Case Rates,Culture location,All cases,5.35
+2012,CRE,Case Rates,Culture location,LTACH,0.12
+2013,CRE,Case Rates,Culture location,LTACH,0.15
+2014,CRE,Case Rates,Culture location,LTACH,0.15
+2015,CRE,Case Rates,Culture location,LTACH,0.11
+2016,CRE,Case Rates,Culture location,LTACH,0.24
+2017,CRE,Case Rates,Culture location,LTACH,0.16
+2018,CRE,Case Rates,Culture location,LTACH,0.1
+2012,CRE,Case Rates,Culture location,LTCF,0.46
+2013,CRE,Case Rates,Culture location,LTCF,0.55
+2014,CRE,Case Rates,Culture location,LTCF,0.83
+2015,CRE,Case Rates,Culture location,LTCF,0.59
+2016,CRE,Case Rates,Culture location,LTCF,1.28
+2017,CRE,Case Rates,Culture location,LTCF,1.18
+2018,CRE,Case Rates,Culture location,LTCF,0.68
+2012,CRE,Case Rates,Culture location,Outpatient or ER,1.33
+2013,CRE,Case Rates,Culture location,Outpatient or ER,1.21
+2014,CRE,Case Rates,Culture location,Outpatient or ER,1.56
+2015,CRE,Case Rates,Culture location,Outpatient or ER,1.4
+2016,CRE,Case Rates,Culture location,Outpatient or ER,4.65
+2017,CRE,Case Rates,Culture location,Outpatient or ER,4.45
+2018,CRE,Case Rates,Culture location,Outpatient or ER,3.26
+2012,CRE,Case Rates,Culture source,All cases,2.94
+2013,CRE,Case Rates,Culture source,All cases,2.94
+2014,CRE,Case Rates,Culture source,All cases,3.52
+2015,CRE,Case Rates,Culture source,All cases,2.96
+2016,CRE,Case Rates,Culture source,All cases,7.92
+2017,CRE,Case Rates,Culture source,All cases,7.55
+2018,CRE,Case Rates,Culture source,All cases,5.35
+2012,CRE,Case Rates,Culture source,Blood,0.28
+2013,CRE,Case Rates,Culture source,Blood,0.36
+2014,CRE,Case Rates,Culture source,Blood,0.31
+2015,CRE,Case Rates,Culture source,Blood,0.35
+2016,CRE,Case Rates,Culture source,Blood,0.47
+2017,CRE,Case Rates,Culture source,Blood,0.47
+2018,CRE,Case Rates,Culture source,Blood,0.44
+2012,CRE,Case Rates,Culture source,Other sterile site,0.08
+2013,CRE,Case Rates,Culture source,Other sterile site,0.09
+2014,CRE,Case Rates,Culture source,Other sterile site,0.07
+2015,CRE,Case Rates,Culture source,Other sterile site,0.04
+2016,CRE,Case Rates,Culture source,Other sterile site,0.17
+2017,CRE,Case Rates,Culture source,Other sterile site,0.26
+2018,CRE,Case Rates,Culture source,Other sterile site,0.26
+2012,CRE,Case Rates,Culture source,Urine,2.58
+2013,CRE,Case Rates,Culture source,Urine,2.5
+2014,CRE,Case Rates,Culture source,Urine,3.14
+2015,CRE,Case Rates,Culture source,Urine,2.57
+2016,CRE,Case Rates,Culture source,Urine,7.29
+2017,CRE,Case Rates,Culture source,Urine,6.81
+2018,CRE,Case Rates,Culture source,Urine,4.65
+2012,CRE,Case Rates,Organism,All cases,2.94
+2013,CRE,Case Rates,Organism,All cases,2.94
+2014,CRE,Case Rates,Organism,All cases,3.52
+2015,CRE,Case Rates,Organism,All cases,2.96
+2016,CRE,Case Rates,Organism,All cases,7.92
+2017,CRE,Case Rates,Organism,All cases,7.55
+2018,CRE,Case Rates,Organism,All cases,5.35
+2012,CRE,Case Rates,Organism,Enterobacter cloacae,0.36
+2013,CRE,Case Rates,Organism,Enterobacter cloacae,0.41
+2014,CRE,Case Rates,Organism,Enterobacter cloacae,0.47
+2015,CRE,Case Rates,Organism,Enterobacter cloacae,0.49
+2016,CRE,Case Rates,Organism,Enterobacter cloacae,2.66
+2017,CRE,Case Rates,Organism,Enterobacter cloacae,2.68
+2018,CRE,Case Rates,Organism,Enterobacter cloacae,2.38
+2012,CRE,Case Rates,Organism,Escherichia coli,0.44
+2013,CRE,Case Rates,Organism,Escherichia coli,0.43
+2014,CRE,Case Rates,Organism,Escherichia coli,0.78
+2015,CRE,Case Rates,Organism,Escherichia coli,0.58
+2016,CRE,Case Rates,Organism,Escherichia coli,2.22
+2017,CRE,Case Rates,Organism,Escherichia coli,2.07
+2018,CRE,Case Rates,Organism,Escherichia coli,1.03
+2012,CRE,Case Rates,Organism,Klebsiella aerogenes,0.35
+2013,CRE,Case Rates,Organism,Klebsiella aerogenes,0.38
+2014,CRE,Case Rates,Organism,Klebsiella aerogenes,0.43
+2015,CRE,Case Rates,Organism,Klebsiella aerogenes,0.37
+2016,CRE,Case Rates,Organism,Klebsiella aerogenes,0.55
+2017,CRE,Case Rates,Organism,Klebsiella aerogenes,0.48
+2018,CRE,Case Rates,Organism,Klebsiella aerogenes,0.4
+2012,CRE,Case Rates,Organism,Klebsiella pneumoniae,1.76
+2013,CRE,Case Rates,Organism,Klebsiella pneumoniae,1.69
+2014,CRE,Case Rates,Organism,Klebsiella pneumoniae,1.76
+2015,CRE,Case Rates,Organism,Klebsiella pneumoniae,1.47
+2016,CRE,Case Rates,Organism,Klebsiella pneumoniae,2.34
+2017,CRE,Case Rates,Organism,Klebsiella pneumoniae,2.18
+2018,CRE,Case Rates,Organism,Klebsiella pneumoniae,1.45
+2012,CRE,Case Rates,Patient location,All cases,2.94
+2013,CRE,Case Rates,Patient location,All cases,2.94
+2014,CRE,Case Rates,Patient location,All cases,3.52
+2015,CRE,Case Rates,Patient location,All cases,2.96
+2016,CRE,Case Rates,Patient location,All cases,7.92
+2017,CRE,Case Rates,Patient location,All cases,7.55
+2018,CRE,Case Rates,Patient location,All cases,5.35
+2012,CRE,Case Rates,Patient location,Community,1.27
+2013,CRE,Case Rates,Patient location,Community,1.32
+2014,CRE,Case Rates,Patient location,Community,1.61
+2015,CRE,Case Rates,Patient location,Community,1.25
+2016,CRE,Case Rates,Patient location,Community,4.79
+2017,CRE,Case Rates,Patient location,Community,4.71
+2018,CRE,Case Rates,Patient location,Community,3.31
+2012,CRE,Case Rates,Patient location,Hospital inpatient,0.62
+2013,CRE,Case Rates,Patient location,Hospital inpatient,0.64
+2014,CRE,Case Rates,Patient location,Hospital inpatient,0.67
+2015,CRE,Case Rates,Patient location,Hospital inpatient,0.52
+2016,CRE,Case Rates,Patient location,Hospital inpatient,1.2
+2017,CRE,Case Rates,Patient location,Hospital inpatient,1.16
+2018,CRE,Case Rates,Patient location,Hospital inpatient,0.87
+2012,CRE,Case Rates,Patient location,LTACH,0.24
+2013,CRE,Case Rates,Patient location,LTACH,0.17
+2014,CRE,Case Rates,Patient location,LTACH,0.14
+2015,CRE,Case Rates,Patient location,LTACH,0.14
+2016,CRE,Case Rates,Patient location,LTACH,0.21
+2017,CRE,Case Rates,Patient location,LTACH,0.15
+2018,CRE,Case Rates,Patient location,LTACH,0.08
+2012,CRE,Case Rates,Patient location,LTCF,0.8
+2013,CRE,Case Rates,Patient location,LTCF,0.81
+2014,CRE,Case Rates,Patient location,LTCF,1.11
+2015,CRE,Case Rates,Patient location,LTCF,1.05
+2016,CRE,Case Rates,Patient location,LTCF,1.69
+2017,CRE,Case Rates,Patient location,LTCF,1.53
+2018,CRE,Case Rates,Patient location,LTCF,1.09
+2012,CRE,Case Rates,Sex,Female,3.33
+2013,CRE,Case Rates,Sex,Female,3.32
+2014,CRE,Case Rates,Sex,Female,4.28
+2015,CRE,Case Rates,Sex,Female,3.44
+2016,CRE,Case Rates,Sex,Female,9.74
+2017,CRE,Case Rates,Sex,Female,9.39
+2018,CRE,Case Rates,Sex,Female,6.43
+2012,CRE,Case Rates,Sex,Male,2.53
+2013,CRE,Case Rates,Sex,Male,2.54
+2014,CRE,Case Rates,Sex,Male,2.72
+2015,CRE,Case Rates,Sex,Male,2.46
+2016,CRE,Case Rates,Sex,Male,6
+2017,CRE,Case Rates,Sex,Male,5.62
+2018,CRE,Case Rates,Sex,Male,4.21
+2012,CRE,Death Rates,All cases,All cases,0.3
+2013,CRE,Death Rates,All cases,All cases,0.22
+2014,CRE,Death Rates,All cases,All cases,0.27
+2015,CRE,Death Rates,All cases,All cases,0.21
+2016,CRE,Death Rates,All cases,All cases,0.34
+2017,CRE,Death Rates,All cases,All cases,0.39
+2018,CRE,Death Rates,All cases,All cases,0.3
