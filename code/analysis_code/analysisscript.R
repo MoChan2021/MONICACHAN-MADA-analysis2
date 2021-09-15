@@ -38,7 +38,7 @@ summarytable_file = here("results", "summarytable.rds")
 saveRDS(summary_df, file = summarytable_file)
 
 
-#make a scatterplot of data
+#make a scatterplot of data     (Covid-19 Deaths, Months)
 #we also add a linear regression line to it
 p1 <- mydata %>% ggplot(aes(x=Height, y=Weight)) + geom_point() + geom_smooth(method='lm')
 

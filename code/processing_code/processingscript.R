@@ -33,12 +33,12 @@ summary(rawdata)
 #that is often not possible.
 print(rawdata)
 
-# Clean Data for Georgia to see Year, Sex, Age Group, and deaths for (Covid 19, Pneumonia, and Influenza)
+# Clean Data for NYC to see Year, Month, Sex, Age Group, and deaths for (Covid 19, Pneumonia, and Influenza)
 library(lubridate)
 processeddata <- rawdata %>%
   dplyr::rename_all(funs(make.names(.))) %>%
-  dplyr::select( Year, State, Sex, Age.Group, COVID.19.Deaths, Pneumonia.Deaths, Influenza.Deaths)%>%
-  filter(State=="Georgia", Year!="NA", Sex!="All Sexes", State!="United States")
+  dplyr::select( Year, Month, State, Sex, Age.Group, COVID.19.Deaths, Pneumonia.Deaths, Influenza.Deaths)%>%
+  filter(State=="New York City",Month!="NA", Year!="NA", Age.Group=="All Ages")
 
 summary(processeddata)
 str(processeddata)
@@ -62,7 +62,7 @@ saveRDS(processeddata, file = save_data_location)
 
 
 
-# Make comparisons between causes of Deaths (Covid 19, Pneumonia, and Flu) in the Years 2020 and 2021 for All Ages. 
+# Make comparisons between All Sexes causes of Deaths (Covid 19, Pneumonia, and Flu) and frequency in the Year or Months for All Ages. 
 
 
 #
